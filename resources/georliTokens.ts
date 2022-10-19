@@ -1,0 +1,16 @@
+const supportedErc20Tokens = [
+  "gterc2dp",
+  "gterc6dp",
+  "gterc18dp",
+  "gtaave18dp",
+  "gtbat18dp",
+  "gtcomp18dp",
+  "gtgrt18dp",
+  "gtlink18dp",
+  "gtmkr18dp",
+  "gtsnx18dp",
+  "gtuni18dp",
+  "gtusdt6dp",
+  "gtyfi18dp",
+  "gtwbtc18dp",
+];
