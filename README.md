@@ -17,3 +17,6 @@ Install Dependencies
 cd activate
 npm install
 ```
+
+
+[Goerli PoW Faucet](https://goerli-faucet.pk910.de/)
