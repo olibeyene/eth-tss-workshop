@@ -3,9 +3,9 @@ This workshop's focus is to create Ethereum wallets and send transcations in Geo
 
 ### Prerequisite
 Install Dependencies
-    - npm >= 6.14.14 (reccomended approach is via [NVM](https://github.com/nvm-sh/nvm))
-    - (optional) [Yarn](https://classic.yarnpkg.com/lang/en/docs/install/#mac-stable): `npm install --global yarn`
-    - Install packages by running `yarn` or `npm install`
+ - npm >= 6.14.14 (reccomended approach is via [NVM](https://github.com/nvm-sh/nvm))
+ - (optional) [Yarn](https://classic.yarnpkg.com/lang/en/docs/install/#mac-stable): `npm install --global yarn`
+ - Install packages by running `yarn` or `npm install`
 
 ### Set up
 
