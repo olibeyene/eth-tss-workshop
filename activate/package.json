@@ -6,6 +6,7 @@
   "scripts": {
     "create-wallet": "npx ts-node create-wallet.ts",
     "send-funds": "npx ts-node send-funds.ts",
+    "fund-wallet": "npx ts-node fund-wallet.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
