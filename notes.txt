@@ -1,0 +1,8 @@
+My Wallet:
+  Wallet ID:
+  Walled address: 
+
+Faucet Wallet: 
+  Walled ID: 6357f0d25fe3f4000732360784f4eaf8 
+  Walled address: 0x9870695d11d4e105cd53cbd21590c03d5dca9100
+  Wallet Pass: abcd
